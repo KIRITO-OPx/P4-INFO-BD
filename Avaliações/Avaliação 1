@@ -1,6 +1,9 @@
 Pesquise na bibliografia disponibilizada os seguintes conceitos:
 1) Dado
-resposta: Num conceito amplo podemos definir "dados" como um valor alferido a algo. 
+resposta: Num conceito amplo podemos definir "dados" como um valor alferido a alguma coisa. 
 2) Informação
+resposta: São os fatos organizados de maneira a produzir um significado, é aquilo que compõe o dado
 3) Arquivo Convencional
+resposta: são arquivos passivos, executando transações, apenas,  quando são explicitamente requisitadas pelo usuário ou aplicação.
 4) Banco de Dados
+resposta: É o conjunto de dados e infomações integrados que tem por objetivo atender a uma unidade de usuários
